@@ -1,5 +1,6 @@
 ---
 permalink: /research/
+layout: default
 title: "current research topics"
 author_profile: true
 ---
