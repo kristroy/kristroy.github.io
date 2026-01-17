@@ -1,0 +1,116 @@
+/* ==========================================================================
+   RMONO THEME - DARK VERSION
+   ========================================================================== */
+/* Color codes used for the theme */
+$primary-color              : #ffad00;
+$background                 : #121212;
+$background-light           : #1b1b1b;
+$background-lighter         : #323232;
+$text                      : #fcfcfc;
+$text-muted                : #cfcfcf;
+$link                      : #0f8fcc;
+$link-dark                 : #007cb5;
+$link-light                : #55c9ff;
+$footer                    : #121212;
+$border                    : #121212;
+$border-light              : #121212;
+
+/* Color codes used for the site */
+$danger-color               : #e4124a;
+$info-color                 : #61af5e;
+$notice-color               : #ffad00;
+$success-color              : #0f8fcc;
+$warning-color              : #ffffff;
+
+/* Color-blind-friendly palettes generated with David Math Logic's tool: 
+   (https://davidmathlogic.com/colorblind/)
+  */
+/* (https://davidmathlogic.com/colorblind/#%23E4124A-%230F8FCC-%23FFAD00-%2361AF5E)            
+cbTertriary:       */
+$cbTertiary-r-11             : #ffaec3;
+$cbTertiary-r-12             : #e4124a;
+$cbTertiary-r-13             : #a2002b;
+$cbTertiary-y-11             : #ffdf9a;
+$cbTertiary-y-12             : #ffad00;
+$cbTertiary-y-13             : #c98a01;
+$cbTertiary-b-11             : #55c9ff;
+$cbTertiary-b-12             : #0f8fcc;
+$cbTertiary-b-13             : #007cb5;
+$cbTertiary-g-11             : #bcffba;
+$cbTertiary-g-12             : #61af5e;
+$cbTertiary-g-13             : #0c590a;
+/* (https://davidmathlogic.com/colorblind/#%23648FFF-%23785EF0-%23DC267F-%23FE6100-%23FFB000)  
+IBM:               */
+$IBM-15-i                   : #648fff;
+$IBM-25-v                   : #785ef0;
+$IBM-35-m                   : #dc267f;
+$IBM-45-o                   : #fe6100;
+$IBM-55-g                   : #ffb000;
+
+/* Other basic settings for the template */
+$border-radius              : 4px;
+$box-shadow                 : 0 1px 1px rgba(255, 255, 255, 0.61);
+$global-transition          : all 0.2s ease-in-out;
+$masthead-height            : 70px;
+$navicon-width              : 28px;
+$navicon-height             : 4px;
+$sidebar-link-max-width     : 160px;
+$sidebar-screen-min-width   : 1024px;
+
+/* Dark theme for the site */
+html[data-theme="dark"] {
+  --global-base-color                 : #{$background};
+  --global-bg-color                   : #{$background};
+  --global-bg-color-light             : #{$background-light};
+  --global-footer-bg-color            : #{$background};
+  --global-border-color               : #{$background};
+  --global-dark-border-color          : #{$background};
+  --global-code-background-color      : #{$background-light};
+  --global-code-text-color            : #{$text-muted};
+  --global-fig-caption-color          : #{$text-muted};
+  --global-link-color                 : #{$cbTertiary-b-12};
+  --global-link-color-hover           : #{$cbTertiary-b-13};
+  --global-link-color-visited         : #{$cbTertiary-b-11};
+  --global-masthead-link-color        : #{$text};
+  --global-masthead-link-color-hover  : #{$cbTertiary-g-12};
+  --global-text-color                 : #{$text};
+  --global-text-color-light           : #{$text-muted};
+  --global-thead-color                : #{$background};
+  --global-accent-r-11                : #{$cbTertiary-r-11};
+  --global-accent-r-12                : #{$cbTertiary-r-12};
+  --global-accent-r-13                : #{$cbTertiary-r-13};
+  --global-accent-y-11                : #{$cbTertiary-y-11};
+  --global-accent-y-12                : #{$cbTertiary-y-12};
+  --global-accent-y-13                : #{$cbTertiary-y-13};
+  --global-accent-b-11                : #{$cbTertiary-b-11};
+  --global-accent-b-12                : #{$cbTertiary-b-12};
+  --global-accent-b-13                : #{$cbTertiary-b-13};
+  --global-accent-g-11                : #{$cbTertiary-g-11};
+  --global-accent-g-12                : #{$cbTertiary-g-12};
+  --global-accent-g-13                : #{$cbTertiary-g-13};
+}
+
+
+/* Override notice colors for high contrast in dark mode */
+/*html[data-theme="dark"] {
+  .page__content {
+    .notice,
+    .notice--primary,
+    .notice--info,
+    .notice--warning,
+    .notice--success,
+    .notice--danger {
+      color: #{$text};
+      border-color: #{$text};
+    }
+  }
+
+  .page__footer {
+    color: #ffffff;
+  }
+
+  .page__footer-follow .social-icons i,
+  .page__footer-follow .social-icons .svg-inline--fa {
+    color: inherit;
+  }
+} */

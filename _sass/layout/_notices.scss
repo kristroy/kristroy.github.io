@@ -11,15 +11,15 @@
  */
 
 @mixin notice($notice-color) {
-  margin: 2em 0 !important;  /* override*/
-  padding: 1em;
+  margin: 0.8em 0 !important;  /* override*/
+  padding: 0.2em;
   font-family: $global-font-family;
-  font-size: $type-size-6 !important;
+  font-size: $type-size-7 !important;
   text-indent: initial; /* override*/
-  background-color: mix(#fff, $notice-color, 90%);
+  background: mix($notice-color, $background, 80%);
   border-radius: $border-radius;
-  box-shadow: 0 1px 1px rgba($notice-color, 0.25);
-  color: var(--global-code-text-color);
+  box-shadow: 0 0px 0px mix($notice-color, $background, 80%);
+  color: var(--global-bg-color);
 
   h4 {
     margin-top: 0 !important; /* override*/
@@ -53,7 +53,7 @@
   }
 
   code {
-    background-color: mix(#fff, $notice-color, 95%)
+    background-color: mix(#fff, $notice-color, 95%);
   }
 
   ul {

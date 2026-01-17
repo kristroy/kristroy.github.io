@@ -28,7 +28,7 @@
     @include container;
     @include clearfix;
     padding: 0.5em 1em;
-    font-family: $sans-serif-narrow;
+    font-family: $caption-font-family;
 
     @include breakpoint($x-large) {
       max-width: $x-large;
@@ -40,6 +40,7 @@
 
     a {
       text-decoration: none;
+      font-family: $caption-font-family;
     }
   }
 }
@@ -59,9 +60,11 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
+  font-family: $academicicons;
 
   &--lg {
     padding-right: 2em;
     font-weight: 700;
+    font-family: $caption-font-family;
   }
 }

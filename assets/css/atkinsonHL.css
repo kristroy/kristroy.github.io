@@ -1,0 +1,19 @@
+
+@font-face {
+    font-family: 'AtkinsonHL';
+    font-style: normal;
+    font-weight: 300;
+    font-display: block;
+    src:url('../fonts/Atkinson_Hyperlegible/AtkinsonHyperlegible-Regular.ttf') format('truetype');
+
+}
+
+@font-face {
+  font-family: 'AtkinsonHL';
+  font-style: italic;
+  font-weight: 300;
+  font-display: block;
+  src: url('../fonts/Atkinson_Hyperlegible/AtkinsonHyperlegible-Italic.ttf') format('truetype');
+
+}
+

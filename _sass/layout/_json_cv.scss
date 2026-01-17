@@ -6,7 +6,7 @@
 .cv-container {
   max-width: 1000px;
   margin: 0 auto;
-  font-family: 'Roboto', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: $sans-serif;
   color: var(--global-text-color);
   line-height: 1.6;
 }
@@ -99,15 +99,18 @@
 
 .cv-item-date {
   color: var(--global-text-color);
+  font-weight: bold; /* edited */
 }
 
 .cv-item-subtitle {
   color: var(--global-text-color);
   margin-bottom: 0.5rem;
+  font-size: 1rem;
 }
 
 .cv-item-summary {
   margin-bottom: 0.5rem;
+  padding-left: 1.5rem;
 }
 
 .cv-item-highlights {
@@ -121,6 +124,10 @@
 
 .cv-item-courses li {
   margin-bottom: 0.25rem;
+}
+
+.cv-item-detail {
+  padding-left: 2rem;
 }
 
 /* Skills Styles */

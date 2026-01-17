@@ -1,0 +1,19 @@
+
+@font-face {
+    font-family: 'Rokkitt';
+    font-style: normal;
+    font-weight: 400;
+    font-display: block;
+    src:local(Rokkitt),
+        url('../fonts/Rokkitt/Rokkitt-VariableFont_wght.ttf') format('truetype');
+
+}
+
+@font-face {
+  font-family: 'Rokkitt';
+  font-style: italic;
+  font-weight: 400;
+  font-display: block;
+  src:local(Rokkitt),
+        url('../fonts/Rokkitt/Rokkitt-Italic-VariableFont_wght.ttf') format('truetype');
+}

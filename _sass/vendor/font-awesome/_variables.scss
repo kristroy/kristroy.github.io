@@ -16,13 +16,13 @@ $fa-border-radius       : .1em !default;
 $fa-border-style        : solid !default;
 $fa-border-width        : .08em !default;
 
-$fa-size-scale-2xs      : 10 !default;
-$fa-size-scale-xs       : 12 !default;
-$fa-size-scale-sm       : 14 !default;
-$fa-size-scale-base     : 16 !default;
-$fa-size-scale-lg       : 20 !default;
-$fa-size-scale-xl       : 24 !default;
-$fa-size-scale-2xl      : 32 !default;
+$fa-size-scale-2xs      : 9 !default;
+$fa-size-scale-xs       : 10 !default;
+$fa-size-scale-sm       : 12 !default;
+$fa-size-scale-base     : 14 !default;
+$fa-size-scale-lg       : 16 !default;
+$fa-size-scale-xl       : 20 !default;
+$fa-size-scale-2xl      : 22 !default;
 
 $fa-sizes: (
   "2xs"                 : $fa-size-scale-2xs,
@@ -46,7 +46,7 @@ $fa-stack-width         : ($fa-fw-width * 2) !default;
 $fa-stack-z-index       : auto !default;
 
 $fa-font-display        : block !default;
-$fa-font-path           : "../webfonts" !default;
+$fa-font-path           : "../fonts" !default;
 
 $fa-var-0: \30;
 $fa-var-1: \31;

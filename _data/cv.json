@@ -1,142 +1,128 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "KRIS TROY",
+    "email": "troy720@ucsb.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://kristroy.github.io",
+    "summary": "Currently employed at uc santa barbara. molecular biologist & education researcher",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "california, usa",
       "countryCode": "US",
       "region": ""
     },
     "profiles": [
       {
-        "network": "Google Scholar",
+        "network": "google scholar",
         "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "url": "https://scholar.google.com/citations?user=zQpSfWcAAAAJ"
       },
       {
-        "network": "ORCID",
+        "network": "orcid",
         "username": "",
-        "url": "https://orcid.org/yourorcidurl"
+        "url": "https://orcid.org/0000-0001-7093-662X"
       },
       {
-        "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "network": "github",
+        "username": "kristroy",
+        "url": "https://github.com/kristroy"
       }
     ]
   },
   "work": [],
-  "education": [
-    {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
-      "courses": []
-    },
-    {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
-      "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
-      "courses": []
-    }
-  ],
+  "education": [],
   "skills": [],
   "languages": [],
   "interests": [],
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "https://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
+      "name": "PathSTORM: a road to early cancer detection",
+      "publisher": "Molecular & Cellular Oncology",
+      "releaseDate": "2020-09-02",
+      "website": "https://www.tandfonline.com/doi/full/10.1080/23723556.2020.1776086",
+      "summary": "<i>We demonstrated potential detection of pre-cancerous genomic architecture not easily discernible by conventional pathology.</i>"
     },
     {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "https://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
+      "name": "Cellular Location of HNF4\u03b1 is Linked With Terminal Liver Failure in Humans",
+      "publisher": "Hepatology Communications",
+      "releaseDate": "2020-06-01",
+      "website": "https://journals.lww.com/hepcomm/fulltext/2020/06000/cellular_location_of_hnf4__is_linked_with_terminal.8.aspx",
+      "summary": "<i>This study suggests that manipulation of HNF4\u03b1 and pathways involved in HNF4\u03b1 posttranslational modification may restore hepatocyte function in patients with terminal liver failure.</i>"
     },
     {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name": "Super-resolution imaging reveals the evolution of higher-order chromatin folding in early carcinogenesis",
+      "publisher": "Nature Communications",
+      "releaseDate": "2020-09-02",
+      "website": "https://www.nature.com/articles/s41467-020-15718-7",
+      "summary": "<i>...our findings reveal gradual decompaction and fragmentation of higher-order chromatin structure as an enabling characteristic in early carcinogenesis to facilitate malignant transformation, which may improve cancer diagnosis, risk stratification, and prevention.</i>"
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "https://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about fixing template issue #693."
+      "name": "The esBAF and ISWI nucleosome remodeling complexes influence occupancy of overlapping dinucleosomes and fragile nucleosomes in murine embryonic stem cells",
+      "publisher": "BMC Genomics",
+      "releaseDate": "2023-04-13",
+      "website": "https://link.springer.com/article/10.1186/s12864-023-09287-4",
+      "summary": "<i>Overlapping dinucleosomes and fragile nucleosomes are prevalent within the ES cell genome, occurring at hotspots of gene regulation beyond their characterized existence at promoters.</i>"
+    },
+    {
+      "name": "H3.3K122A results in a neomorphic phenotype in mouse embryonic stem cells",
+      "publisher": "Epigenetics & Chromatin",
+      "releaseDate": "2024-11-01",
+      "website": "https://link.springer.com/article/10.1186/s13072-024-00557-3",
+      "summary": "<i>...these studies have uncovered a novel dependence of a globular domain residue within H3.3 for viability and broadened our understanding of how histone variants contribute to transcription regulation and pluripotency in mES cells.</i>"
+    },
+    {
+      "name": "Cisnormative Language and Erasure of Trans* and Genderqueer Student Representation in Biology Education Research",
+      "publisher": "CBE- Life Sciences Education",
+      "releaseDate": "2025-03-01",
+      "website": "https://www.lifescied.org/doi/10.1187/cbe.24-01-0033",
+      "summary": "<i>...our results are a call for researchers to critically conceptualize whether and how they investigate gender data in future studies.</i>"
     }
   ],
   "presentations": [
     {
-      "name": "Talk 1 on Relevant Topic in Your Field",
-      "event": "UC San Francisco, Department of Testing",
-      "date": "2012-03-01",
-      "location": "San Francisco, CA, USA",
+      "name": "Overlapping dinucleosomes (OLDNs): transient chromatin structures with unknown functions",
+      "event": "the Univeristy of Pittsburgh - Nucleic Acids Club",
+      "date": "2019-11-01",
+      "location": "Pittsburgh, PA, USA",
       "description": ""
     },
     {
-      "name": "Tutorial 1 on Relevant Topic in Your Field",
-      "event": "UC-Berkeley Institute for Testing Science",
-      "date": "2013-03-01",
-      "location": "Berkeley, CA, USA",
+      "name": "Morning, midday, or night: learning time-of-day affects student experience\u2013 but not performance\u2013 in an upper division genetics course",
+      "event": "CV-RISER",
+      "date": "2022-07-23",
+      "location": "Merced, CA, USA",
       "description": ""
     },
     {
-      "name": "Talk 2 on Relevant Topic in Your Field",
-      "event": "London School of Testing",
-      "date": "2014-02-01",
-      "location": "London, UK",
+      "name": "Reflecting on cultural wealth and repaying educational debt in the biology classroom: student achievement using GenBio-MAPS at a research-intensive, minority-serving institution.",
+      "event": "SABER National Conference",
+      "date": "2023-07-21",
+      "location": "Minneapolis, MN, USA",
       "description": ""
     },
     {
-      "name": "Conference Proceeding talk 3 on Relevant Topic in Your Field",
-      "event": "Testing Institute of America 2014 Annual Conference",
-      "date": "2014-03-01",
-      "location": "Los Angeles, CA, USA",
+      "name": "Turns out, it's not &quot;just basic biology&quot;: Biology instructor conceptions of natural phenomena as related to the LGBTQ+ community",
+      "event": "SABER National Conference",
+      "date": "2025-07-13",
+      "location": "Minneapolis, MN, USA",
       "description": ""
     }
   ],
   "teaching": [
     {
-      "course": "Teaching experience 1",
-      "institution": "University 1, Department",
-      "date": "2014-01-01",
-      "role": "Undergraduate course",
+      "course": "Instructor of Record (Summer 2025)",
+      "institution": "University of California, Santa Barbara",
+      "date": "2025-06-23",
+      "role": "MCDB 1A: large enrollment introductory undergraduate biology course",
       "description": ""
     },
     {
-      "course": "Teaching experience 2",
-      "institution": "University 1, Department",
-      "date": "2015-01-01",
-      "role": "Workshop",
+      "course": "Graduate Teaching Assistant (2020-2022)",
+      "institution": "University of California, Merced",
+      "date": "2020-09-01",
+      "role": "4 semesters (& summers!) of biology TA-ships",
       "description": ""
     }
   ],

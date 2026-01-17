@@ -1,18 +1,16 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Kris Troy:
+  name        : "Kris Troy"
+  uri         : "https://kristroy.github.io"
+  email       : "troy720@ucsb.edu"
+  bio         : "Kris is a molecular biologist whose prior contributions include publications in epigenetic oncogene expression, super-resolution molecular imaging methodologies, and chromatin regulation and higher-order structure. They transferred to the UCSB MCDB PhD program in 2023-- half way through their program-- from UC Merced, where multiple students performed biology education research as thesis projects. After transfering, Kris has the honor of being the first MCDB PhD student whose dissertation will focus on education research."
+  avatar      : "images/profile.png"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+# Name2 Name2:
+#  name        : "Name2 Name2"
+#  email       : "name2@name2.com"
+#  bio         : "I ordered what?"
+#  avatar      : "bio-photo.jpg"
+#  twitter     : "name2"
+#  google_plus : "Name"

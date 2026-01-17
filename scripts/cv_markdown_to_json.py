@@ -113,21 +113,21 @@ def extract_author_info(config):
         # Academic profiles
         if author.get('googlescholar'):
             profiles.append({
-                "network": "Google Scholar",
+                "network": "google scholar",
                 "username": "",
                 "url": author.get('googlescholar')
             })
         
         if author.get('orcid'):
             profiles.append({
-                "network": "ORCID",
+                "network": "orcid",
                 "username": "",
                 "url": author.get('orcid')
             })
         
         if author.get('researchgate'):
             profiles.append({
-                "network": "ResearchGate",
+                "network": "researchgate",
                 "username": "",
                 "url": author.get('researchgate')
             })
@@ -135,21 +135,21 @@ def extract_author_info(config):
         # Social media profiles
         if author.get('github'):
             profiles.append({
-                "network": "GitHub",
+                "network": "github",
                 "username": author.get('github'),
                 "url": f"https://github.com/{author.get('github')}"
             })
         
         if author.get('linkedin'):
             profiles.append({
-                "network": "LinkedIn",
+                "network": "linkedin",
                 "username": author.get('linkedin'),
                 "url": f"https://www.linkedin.com/in/{author.get('linkedin')}"
             })
         
         if author.get('twitter'):
             profiles.append({
-                "network": "Twitter",
+                "network": "twitter",
                 "username": author.get('twitter'),
                 "url": f"https://twitter.com/{author.get('twitter')}"
             })

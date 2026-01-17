@@ -1,0 +1,15 @@
+---
+title: "Cellular Location of HNF4α is Linked With Terminal Liver Failure in Humans"
+collection: publications
+category: manuscripts
+permalink: /publication/2020-06-Florentino_etal
+excerpt: '<i>This study suggests that manipulation of HNF4α and pathways involved in HNF4α posttranslational modification may restore hepatocyte function in patients with terminal liver failure.</i>'
+date: 2020-06-01
+venue: 'Hepatology Communications'
+paperurl: 'https://journals.lww.com/hepcomm/fulltext/2020/06000/cellular_location_of_hnf4__is_linked_with_terminal.8.aspx'
+bibtexurl: 'https://kristroy.github.io/files/florentino2020.bib'
+citation: 'Florentino, R.M., Fraunhoffer, N.A., Morita, K., Takeishi, K., Ostrowska, A., Achreja, A., Animasahun, O., Haep, N., Arazov, S., Agarwal, N., Collin de l&#39;Hortet, A., Guzman‐Lepe, J., Tafaleng, E.N., Mukherjee, A., <b>Troy, K.</b>, Banerjee, S., Paranjpe, S., Michalopoulos, G.K., Bell, A., Nagrath, D., Hainer, S.J., Fox, I.J., Soto‐Gutierrez, A.. (2020). &quot;This study suggests that manipulation of HNF4α and pathways involved in HNF4α posttranslational modification may restore hepatocyte function in patients with terminal liver failure.&quot; <i>Hepatology Communications</i>. 4(6)859-875. doi:10.1080/23723556.2020.1776086'
+---
+# abstract
+
+Hepatocyte nuclear factor 4 alpha (HNF4α) is a transcription factor that plays a critical role in hepatocyte function, and HNF4α‐based reprogramming corrects terminal liver failure in rats with chronic liver disease. In the livers of patients with advanced cirrhosis, HNF4α RNA expression levels decrease as hepatic function deteriorates, and protein expression is found in the cytoplasm. These findings could explain impaired hepatic function in patients with degenerative liver disease. In this study, we analyzed HNF4α localization and the pathways involved in post‐translational modification of HNF4α in human hepatocytes from patients with decompensated liver function. RNA‐sequencing analysis revealed that AKT‐related pathways, specifically phospho‐AKT, is down‐regulated in cirrhotic hepatocytes from patients with terminal failure, in whom nuclear levels of HNF4α were significantly reduced, and cytoplasmic expression of HNF4α was increased. cMET was also significantly reduced in failing hepatocytes. Moreover, metabolic profiling showed a glycolytic phenotype in failing human hepatocytes. The contribution of cMET and phospho‐AKT to nuclear localization of HNF4α was confirmed using Spearman's rank correlation test and pathway analysis, and further correlated with hepatic dysfunction by principal component analysis. HNF4α acetylation, a posttranslational modification important for nuclear retention, was also significantly reduced in failing human hepatocytes when compared with normal controls. Conclusion: These results suggest that the alterations in the cMET‐AKT pathway directly correlate with HNF4α localization and level of hepatocyte dysfunction. This study suggests that manipulation of HNF4α and pathways involved in HNF4α posttranslational modification may restore hepatocyte function in patients with terminal liver failure.
