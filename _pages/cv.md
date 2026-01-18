@@ -129,21 +129,21 @@ projects:
 </p>
 
 #### 2024 - 2025
-Certificate, Summer Teaching Institute for Associates (STIA)
-Certificate in Inclusive Teaching (CIT), UC Santa Barbara
-Chair, GSA Professional Teams Committee on Healthcare, UCSB
+Certificate, Summer Teaching Institute for Associates (STIA)\
+Certificate in Inclusive Teaching (CIT), UC Santa Barbara\
+Chair, GSA Professional Teams Committee on Healthcare, UCSB\
 
 #### 2021 - 2023
-Chair, Chancellor’s Advisory Committee on Queer Issues, UC Merced
-Magistrate, RadioBio — Biology Podcast, UC Merced 
-Principles of Pedagogy, Advanced Graduate Teaching Training (Level 3)
-Member, Graduate Dean’s Advisory Council on Diversity, UC Merced
+Chair, Chancellor’s Advisory Committee on Queer Issues, UC Merced\
+Magistrate, RadioBio — Biology Podcast, UC Merced\
+Principles of Pedagogy, Advanced Graduate Teaching Training (Level 3)\
+Member, Graduate Dean’s Advisory Council on Diversity, UC Merced\
 
 #### pre-2020
-Transcription and Chromatin Biology Journal Club — Pittsburgh, PA
-Please Try This at Home — Pittsburgh, PA
-Pitt Queer Professionals, for Staff and Faculty, University of Pittsburgh 
-Allies Network LGBT Certification, University of Pittsburgh
+Transcription and Chromatin Biology Journal Club — Pittsburgh, PA\
+Please Try This at Home — Pittsburgh, PA\
+Pitt Queer Professionals, for Staff and Faculty, University of Pittsburgh\
+Allies Network LGBT Certification, University of Pittsburgh\
 
 
 *[UCSB]: University of California, Santa Barbara
